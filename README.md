@@ -17,7 +17,7 @@
 - 💻 Experienced in developing with *Android Studio (Java), **NetBeans, and **Unity*.
 
 <a target="_blank" align="right">
-  <img align="right" height="225" width="400" alt="GIF" src="https://github.com/LTChanu/LTChanu/blob/main/codinggif.gif">
+  <img align="right" z-index="99" height="225" width="400" alt="GIF" src="https://github.com/LTChanu/LTChanu/blob/main/codinggif.gif">
 </a>
 
 ---
