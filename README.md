@@ -16,8 +16,13 @@
 - 🌱 Continuously expanding my expertise in *Java, **Python, **C#*, and cutting-edge AI technologies.
 - 💻 Experienced in developing with *Android Studio (Java), **NetBeans, and **Unity*.
 
-<a target="_blank" align="right">
-  <img align="right" z-index="99" height="225" width="400" alt="GIF" src="https://github.com/LTChanu/LTChanu/blob/main/codinggif.gif">
+<a target="_blank" style="position: relative; display: inline-block;">
+  <img
+    align="right"
+    style="z-index: 99; position: relative; height: 225px; width: 400px;"
+    alt="GIF"
+    src="https://github.com/LTChanu/LTChanu/blob/main/codinggif.gif"
+  >
 </a>
 
 ---
